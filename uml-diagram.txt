@@ -1,0 +1,5 @@
+uml diagram
+->class diagram
+->use case diagram
+->sequence diagram
+->Activity diagram
